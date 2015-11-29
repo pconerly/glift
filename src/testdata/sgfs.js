@@ -180,6 +180,15 @@ testdata.sgfs = {
     ";W[cf] ;B[dg] ;W[eh] ;B[kg] ;W[lf] ;B[dh] ;W[ed] ;B[lg] ;W[mg] ;B[mf]" +
     ";W[ee] ;B[le] ;W[gc] ;B[fd] ;W[ih] ;B[kh] ;W[jh]C[http://gogameguru.com/])",
 
+  chenXiaoGame:
+    "(;FF[4]GM[1]SZ[19]CA[UTF-8]SO[Glift]EV[]" +
+    "PB[Chen Yaoye]BR[9p]PW[Tan Xiao]WR[7p]KM[7.5]DT[2013-11-18]RE[B+0.5]" + 
+    ";B[qd] ;W[dc] ;B[pq] ;W[dq] ;B[nc] ;W[co] ;B[qk] ;W[jp] ;B[de] ;W[cg]" + 
+    ";B[cc] ;W[gl] ;B[dd] ;W[db] ;B[fd] ;W[hc] ;B[cf] ;W[dh] ;B[cb] ;W[mp]" + 
+    ";B[po] ;W[kc] ;B[dk] ;W[bf] ;B[be] ;W[df] ;B[ce] ;W[dm] ;B[fk] ;W[gh]" + 
+    ";B[hk] ;W[gn] ;B[hq] ;W[jq] ;B[eq] ;W[dr] ;B[io] ;W[im] ;B[jo] ;W[ko]" + 
+    ";B[jm] ;W[jn] ;B[in] ;W[kn] ;B[hm] ;W[il] ;B[hl] ;W[od] ;B[jk] ;W[oc])",
+
   yearbookExample:
     "(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]" +
     "RU[Japanese]SZ[19]KM[6.50]" +

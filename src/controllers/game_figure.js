@@ -41,9 +41,11 @@ glift.controllers.GameFigure.prototype = {
     // this.treepath = rules.treepath.parsePath(initTreepath);
 
     // var initialPosition = this.treepath.length; // used later
-    // var nextTreepath = this.drawTo - this.treepath.length;
+    // if (typeof(this.drawTo) === "number") {
+    //   var nextTreepath = this.drawTo - this.treepath.length;
+    // } else if (typeof(this.drawTo === "array"))
     // if (this.nextMovesPath.length > 0) {
-      // nextTreepath = this.nextMovesPath;
+    //   nextTreepath = this.nextMovesPath;
     // }
     // nextTreepath = rules.treepath.parsePath(nextTreepath);
     // this.treepath = this.treepath.concat(nextTreepath);
